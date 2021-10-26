@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\titpe21\filesysstem\filesysstem\bin\Debug\netcoreapp3.1\filesysstem.exe
+C:\Users\opilane\source\repos\titpe21\filesysstem\filesysstem\bin\Debug\netcoreapp3.1\filesysstem.deps.json
+C:\Users\opilane\source\repos\titpe21\filesysstem\filesysstem\bin\Debug\netcoreapp3.1\filesysstem.runtimeconfig.json
+C:\Users\opilane\source\repos\titpe21\filesysstem\filesysstem\bin\Debug\netcoreapp3.1\filesysstem.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\titpe21\filesysstem\filesysstem\bin\Debug\netcoreapp3.1\filesysstem.dll
+C:\Users\opilane\source\repos\titpe21\filesysstem\filesysstem\bin\Debug\netcoreapp3.1\filesysstem.pdb
+C:\Users\opilane\source\repos\titpe21\filesysstem\filesysstem\obj\Debug\netcoreapp3.1\filesysstem.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\titpe21\filesysstem\filesysstem\obj\Debug\netcoreapp3.1\filesysstem.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\filesysstem\filesysstem\obj\Debug\netcoreapp3.1\filesysstem.AssemblyInfo.cs
+C:\Users\opilane\source\repos\titpe21\filesysstem\filesysstem\obj\Debug\netcoreapp3.1\filesysstem.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\titpe21\filesysstem\filesysstem\obj\Debug\netcoreapp3.1\filesysstem.dll
+C:\Users\opilane\source\repos\titpe21\filesysstem\filesysstem\obj\Debug\netcoreapp3.1\filesysstem.pdb
+C:\Users\opilane\source\repos\titpe21\filesysstem\filesysstem\obj\Debug\netcoreapp3.1\filesysstem.genruntimeconfig.cache
